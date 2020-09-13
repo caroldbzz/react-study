@@ -1,1 +1,1 @@
-# react-study
+# React library for JavaScript studies
