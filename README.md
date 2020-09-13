@@ -1,1 +1,2 @@
-# React library for JavaScript studies
+# React studies
+React library for JavaScript studies
