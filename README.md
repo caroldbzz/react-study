@@ -1,2 +1,2 @@
-# React studies
-React library for JavaScript studies
+# React and react-admin studies
+React Library and react-admin Framework for JavaScript studies
